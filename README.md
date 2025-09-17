@@ -1,4 +1,4 @@
-# MoviesMod 🎥.  
+# MoviesMod 🎥.   
 
 ## Description
 MoviesMod is a web development project focused on managing and displaying movie information. It allows users to browse, search, and manage their favorite movies in a user-friendly interface.
